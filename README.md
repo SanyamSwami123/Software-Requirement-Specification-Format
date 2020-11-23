@@ -18,3 +18,8 @@ Introduction
 At first, main aim is to why this document is necessary and what’s purpose of document is explained.
 * Overview
 Here, the description of product is going to explained. It’s simple summary of product.
+
+
+Functional Requirements
+In this, possible outcome of software system which includes effects due to operation of program is fully explained. 
+All functional requirements which may include calculations, data processing, etc. are placed in a ranked order.
