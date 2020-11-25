@@ -3,14 +3,13 @@
 * Purpose of this document
 * Scope of this document
 * Overview
-2. General description
-3. Functional Requirements
-4. Interface Requirements
-5. Performance Requirements
-6. Design Constraints
-7. Non-Functional Attributes
-8. Preliminary Schedule and Budget
-9. Appendices
+2. Functional Requirements
+3. Interface Requirements
+4. Performance Requirements
+5. Design Constraints
+6. Non-Functional Attributes
+7. Preliminary Schedule and Budget
+8. Appendices
 
 
 #### Introduction
