@@ -25,3 +25,7 @@ All functional requirements which may include calculations, data processing, etc
 #### Interface Requirements
 In this, software interfaces which mean how software program communicates with each other or users either in 
 form of any language, code, or message are fully described and explained.
+
+#### Performance Requirements
+Here we see, how a software system performs desired functions under specific condition. 
+It also explains required time, required memory, maximum error rate, etc.
