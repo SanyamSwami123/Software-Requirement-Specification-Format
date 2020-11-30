@@ -29,3 +29,7 @@ form of any language, code, or message are fully described and explained.
 #### Performance Requirements
 Here we see, how a software system performs desired functions under specific condition. 
 It also explains required time, required memory, maximum error rate, etc.
+
+#### Design Constraints 
+In this, constraints which simply means limitation or restriction are specified and explained for design team. 
+Examples may include use of a particular algorithm, hardware and software limitations, etc.
