@@ -33,3 +33,7 @@ It also explains required time, required memory, maximum error rate, etc.
 #### Design Constraints 
 In this, constraints which simply means limitation or restriction are specified and explained for design team. 
 Examples may include use of a particular algorithm, hardware and software limitations, etc.
+
+#### Non-Functional Attributes :
+In this, non-functional attributes are explained that are required by software system for better performance. 
+An example may include Security, Portability, Reliability, Reusability, Application compatibility, Data integrity, Scalability capacity, etc.
