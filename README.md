@@ -37,3 +37,6 @@ Examples may include use of a particular algorithm, hardware and software limita
 #### Non-Functional Attributes :
 In this, non-functional attributes are explained that are required by software system for better performance. 
 An example may include Security, Portability, Reliability, Reusability, Application compatibility, Data integrity, Scalability capacity, etc.
+
+#### Preliminary Schedule and Budget :
+In this, initial version and budget of project plan are explained which include overall time duration required and overall cost required for development of project.
