@@ -40,3 +40,6 @@ An example may include Security, Portability, Reliability, Reusability, Applicat
 
 #### Preliminary Schedule and Budget :
 In this, initial version and budget of project plan are explained which include overall time duration required and overall cost required for development of project.
+
+#### Appendices :
+In this, additional information like references from where information is gathered, definitions of some specific terms, acronyms, abbreviations, etc. are given and explained.
