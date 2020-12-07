@@ -11,7 +11,6 @@
 7. Preliminary Schedule and Budget
 8. Appendices
 
-
 #### Introduction
 * Purpose of this Document 
 At first, main aim is to why this document is necessary and what’s purpose of document is explained.
